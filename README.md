@@ -1,2 +1,4 @@
 # misc
-Miscelaneous scripts and programs
+Miscellaneous scripts and programs
+
+This is a collection of miscellaneous scripts and programs
